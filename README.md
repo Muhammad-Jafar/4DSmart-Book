@@ -1,9 +1,8 @@
 -- smartbook Fruits Edition --
 ==============================
 
-Description :
 AR (AUGMENTED REALITY) GAME EDUCATION FOR CHILDREN TO LEARN BASIC INTRODUCTION OF THING IN ENGLISH. 
-
+----------------------------------------------------------------
 This game base on android build with Unity 2018 using C# programing languange.
 
 features :
