@@ -15,3 +15,7 @@ features :
 
 App ready on playstore here :
 https://play.google.com/store/apps/details?id=com.REPLACE.ID.SmartBook
+
+
+Feel free if you want to collaborate to make game education like this.
+Contact me in email at my dashboard
